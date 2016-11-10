@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "965670755350",
+    "firebase_url": "https://demofcm-aa2fb.firebaseio.com",
+    "project_id": "demofcm-aa2fb",
+    "storage_bucket": "demofcm-aa2fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965670755350:android:4fd45c4f741269ed",
+        "android_client_info": {
+          "package_name": "com.example.amitrai.demofcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "965670755350-noc9ankg0k2iee9dd7qnog578n7caj14.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8I8uVT7A6Kxfu5BvkJ_W1sAqS5qMbeUM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
